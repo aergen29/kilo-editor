@@ -1,0 +1,22 @@
+# Kaynak kodları değil, derlenmiş dosyalar ignore edilsin
+*.o
+*.out
+*.a
+*.so
+*.exe
+a.out
+*.bin
+
+# Geçici dosyalar
+*.log
+*.tmp
+
+# build klasörü (varsa)
+build/
+
+# Tüm uzantısız dosyaları ignore et
+*
+!*/                # Klasörleri hariç tut
+!*.c               # C kaynak dosyalarını dahil et
+!*.h               # Header dosyalarını dahil et
+!Makefile          # Makefile'ı dahil et
