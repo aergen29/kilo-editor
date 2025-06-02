@@ -17,20 +17,20 @@ The purpose of this project is to explore low-level terminal I/O, understand raw
 1️ Clone the repository:
 
 ```bash
-git clone https://github.com/29apo29/editor.git
-cd editor
+git clone https://github.com/29apo29/kilo-editor.git
+cd kilo-editor
 ```
 
 2️ Compile the source:
 
 ```bash
-gcc -o kilo kilo.c
+gcc -o app app.c
 ```
 
 3️ Run the editor:
 
 ```bash
-./kilo
+./app
 ```
  
 
