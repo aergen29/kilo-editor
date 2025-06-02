@@ -17,8 +17,8 @@ The purpose of this project is to explore low-level terminal I/O, understand raw
 1️ Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/kilo-editor.git
-cd kilo-editor
+git clone https://github.com/29apo29/editor.git
+cd editor
 ```
 
 2️ Compile the source:
@@ -27,13 +27,13 @@ cd kilo-editor
 gcc -o kilo kilo.c
 ```
 
-3 Run the editor:
+3️ Run the editor:
 
 ```bash
 ./kilo
 ```
-
+ 
 
 ## Author
 
-- [Abdullah Ergen](https://x.com/29apo29)
+- [Abdullah ERGEN](https://x.com/29apo29)
